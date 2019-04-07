@@ -8,7 +8,7 @@ React 读书学习分享博客！坚持每周分享学习的成果，React 资�
 
 ## 第一周 (2019/04/06)
 
-- 初识：什么是 React ?
+- 初识 React：[React 新的前端思维方式](https://github.com/184455/React-learning-sharing/issues/1)
 - 用脚手架创建一个 React 应用。
 - 设计高质量的 React 组件。
 
