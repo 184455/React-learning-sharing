@@ -14,6 +14,11 @@ React 读书学习分享博客！坚持每周分享学习的成果，React 资�
 
 > 这周的读书分享主要内容在此！
 
+## 第二周 (2019/04/14)
+
+- 数据传递：[React 组件间数据的传递：State，Props](https://github.com/184455/React-learning-sharing/issues/3)
+- 初识 Redux：[Redux 概念理解](https://github.com/184455/React-learning-sharing/issues/4)
+
 
 
 
