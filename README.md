@@ -19,7 +19,17 @@ React 读书学习分享博客！坚持每周分享学习的成果，React 资�
 - 数据传递：[React 组件间数据的传递：State，Props](https://github.com/184455/React-learning-sharing/issues/3)
 - 初识 Redux：[Redux 概念理解](https://github.com/184455/React-learning-sharing/issues/4)
 
+## 第三周 (2019/04/21)
 
+> 第三周未交 :fearful:
+
+## 第四周 (2019/05/04)
+
+- 使用 umi：[实践：尝试 umi 脚手架](https://github.com/184455/React-learning-sharing/issues/5)
+- 预备知识：[Dva](https://dvajs.com/guide/)
+- 预备知识：[Ant Design](https://ant.design/docs/react/introduce-cn)
+
+> 从这周起开始尝试加入代码，代码也会上传到该项目中！
 
 
 
